@@ -93,7 +93,7 @@ upload:
 # Computation configuration
 run:
     # Script to run
-    script: ${MC2_CLIENT_HOME}/quickstart/amazon_reviews.scala
+    script: ${MC2_CLIENT_HOME}/playground/amazon_reviews.scala
     # script: ${MC2_CLIENT_HOME}/quickstart/opaque_sql_demo.scala
 
     # Compute service you're using
